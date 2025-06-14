@@ -1,7 +1,8 @@
 
+<a href="index.html">
+Laser technology roundup with Todd Dunning</a>
 
-
-<a href="picosecond_laser_cleaning_biomedical_implants.html">
+<a href="https://www.todddunning.com/picosecond_laser_cleaning_biomedical_implants.html">
 Picosecond Laser Cleaning: Precision for Biomedical Implants</a>
 
 <a href="laser_induced_plasma_cleaning_fusion_reactors.html">
